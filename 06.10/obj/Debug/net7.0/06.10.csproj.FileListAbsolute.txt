@@ -1,0 +1,14 @@
+C:\Git\semestr3\06.10\bin\Debug\net7.0\06.10.exe
+C:\Git\semestr3\06.10\bin\Debug\net7.0\06.10.deps.json
+C:\Git\semestr3\06.10\bin\Debug\net7.0\06.10.runtimeconfig.json
+C:\Git\semestr3\06.10\bin\Debug\net7.0\06.10.dll
+C:\Git\semestr3\06.10\bin\Debug\net7.0\06.10.pdb
+C:\Git\semestr3\06.10\obj\Debug\net7.0\06.10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\semestr3\06.10\obj\Debug\net7.0\06.10.AssemblyInfoInputs.cache
+C:\Git\semestr3\06.10\obj\Debug\net7.0\06.10.AssemblyInfo.cs
+C:\Git\semestr3\06.10\obj\Debug\net7.0\06.10.csproj.CoreCompileInputs.cache
+C:\Git\semestr3\06.10\obj\Debug\net7.0\06.10.dll
+C:\Git\semestr3\06.10\obj\Debug\net7.0\refint\06.10.dll
+C:\Git\semestr3\06.10\obj\Debug\net7.0\06.10.pdb
+C:\Git\semestr3\06.10\obj\Debug\net7.0\06.10.genruntimeconfig.cache
+C:\Git\semestr3\06.10\obj\Debug\net7.0\ref\06.10.dll
