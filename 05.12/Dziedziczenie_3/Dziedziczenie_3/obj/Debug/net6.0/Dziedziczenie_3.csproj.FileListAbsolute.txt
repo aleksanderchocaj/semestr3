@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\Dziedziczenie_3\Dziedziczenie_3\bin\Debug\net6.0\Dziedziczenie_3.exe
+C:\Users\Student\source\repos\Dziedziczenie_3\Dziedziczenie_3\bin\Debug\net6.0\Dziedziczenie_3.deps.json
+C:\Users\Student\source\repos\Dziedziczenie_3\Dziedziczenie_3\bin\Debug\net6.0\Dziedziczenie_3.runtimeconfig.json
+C:\Users\Student\source\repos\Dziedziczenie_3\Dziedziczenie_3\bin\Debug\net6.0\Dziedziczenie_3.dll
+C:\Users\Student\source\repos\Dziedziczenie_3\Dziedziczenie_3\bin\Debug\net6.0\Dziedziczenie_3.pdb
+C:\Users\Student\source\repos\Dziedziczenie_3\Dziedziczenie_3\obj\Debug\net6.0\Dziedziczenie_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Dziedziczenie_3\Dziedziczenie_3\obj\Debug\net6.0\Dziedziczenie_3.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Dziedziczenie_3\Dziedziczenie_3\obj\Debug\net6.0\Dziedziczenie_3.AssemblyInfo.cs
+C:\Users\Student\source\repos\Dziedziczenie_3\Dziedziczenie_3\obj\Debug\net6.0\Dziedziczenie_3.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Dziedziczenie_3\Dziedziczenie_3\obj\Debug\net6.0\Dziedziczenie_3.dll
+C:\Users\Student\source\repos\Dziedziczenie_3\Dziedziczenie_3\obj\Debug\net6.0\refint\Dziedziczenie_3.dll
+C:\Users\Student\source\repos\Dziedziczenie_3\Dziedziczenie_3\obj\Debug\net6.0\Dziedziczenie_3.pdb
+C:\Users\Student\source\repos\Dziedziczenie_3\Dziedziczenie_3\obj\Debug\net6.0\Dziedziczenie_3.genruntimeconfig.cache
+C:\Users\Student\source\repos\Dziedziczenie_3\Dziedziczenie_3\obj\Debug\net6.0\ref\Dziedziczenie_3.dll
